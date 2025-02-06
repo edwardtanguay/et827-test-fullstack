@@ -1,8 +1,8 @@
 # vite-react-node-express-lowdb-json-fullstack
 
-This is a fullstack React/Node/Express/lowdb-json application that runs in one directory. 
+This is a fullstack React/Node/Express/lowdb-json template application that runs in one directory. 
 
-The lowdb database layer is read/write and uses one JSON file which is easy to read, search and edit with any editor, which makes this site particularly **useful for local development tools or other internal apps**.
+The lowdb database layer is read/write and uses one JSON file which is easy to read, search and edit with any editor, which makes this site particularly **useful for building local development tools or other internal apps**.
 
 The database layer is abstracted so that it can be swapped out with any other database, e.g. SQLite, MySQL or MongoDB.
 
