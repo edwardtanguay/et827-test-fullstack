@@ -8,6 +8,8 @@ The database layer is abstracted so that it can be swapped out with any other da
 
 In the frontend, easy-peasy Redux is used for straight-forward state management, which communicates with a dataModel that uses Zod to validate and cleanse all incoming data.
 
+![fullstack-001](https://github.com/user-attachments/assets/10c50665-8ea6-482d-b0a2-3f3e68c71dbd)
+
 ## frontend
 
 -   Vite React
